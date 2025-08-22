@@ -1,8 +1,8 @@
-Spectral Lab is an interdisciplinary space for theoretical research and technological experimentation. It brings together critical theory, artistic practices, and digital tools to rethink action in the age of artificial intelligence and algorithmic capitalism.
+### Spectral Lab is an interdisciplinary space for theoretical research and technological experimentation. It brings together critical theory, artistic practices, and digital tools to rethink action in the age of artificial intelligence and algorithmic capitalism.
 
 ## Projects:
 
 ### Automated Editorial Workflow
-Built with Entremonde Books, is the next-generation publishing engine, automating the editorial workflow end to end, from raw manuscripts to polished digital releases and beautifully printed books.
+Developed with Entremonde Books, this next-generation publishing engine automates the editorial process end to end — from raw manuscripts to polished digital releases and beautifully printed books.
 
-The software suite converts Word documents into clean, publication-ready manuscripts, makes bibliography management simple through a flexible and customizable Zotero interface, and lets you export a book either as an EPUB file or as a fully automated InDesign layout generated from templates for print.
+The suite converts Word documents into clean, publication-ready manuscripts, simplifies bibliography management through a flexible and customizable Zotero interface, and enables exporting either as EPUB files or as fully automated InDesign layouts generated from templates for print.
